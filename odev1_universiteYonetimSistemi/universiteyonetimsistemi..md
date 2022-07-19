@@ -12,4 +12,5 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-![]()
+![](https://github.com/esrakocakk/patikadevOOP/blob/190e377d25884d130d90272b3e5828d28a1587cd/odev1_universiteYonetimSistemi/img/UniversiteYonetimSistemi.JPG)
+
