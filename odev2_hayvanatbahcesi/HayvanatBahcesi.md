@@ -13,5 +13,5 @@ tür adı, ağırlığı, yaşı vb.
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-![]()
+![](https://github.com/esrakocakk/patikadevOOP/blob/main/odev2_hayvanatbahcesi/img/hayvanatbahcesiuml.JPG)
 
